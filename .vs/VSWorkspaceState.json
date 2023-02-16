@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnBaseAuthentication",
+    "\\OnBaseAuthentication\\Controllers"
   ],
-  "SelectedNode": "\\D:\\source\\repos\\OnBase-Authentication-Service",
+  "SelectedNode": "\\OnBaseAuthentication\\Controllers\\AuthController.cs",
   "PreviewInSolutionExplorer": false
 }
